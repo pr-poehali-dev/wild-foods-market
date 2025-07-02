@@ -39,6 +39,12 @@ export default function Header() {
               Травы
             </a>
             <a
+              href="#delivery"
+              className="text-nature-brown hover:text-nature-green transition-colors"
+            >
+              Доставка
+            </a>
+            <a
               href="#contacts"
               className="text-nature-brown hover:text-nature-green transition-colors"
             >
